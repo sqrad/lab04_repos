@@ -1,0 +1,14 @@
+C:\Users\vozny\source\repos\Lab4_7\Lab4_7\bin\Debug\net6.0\Lab4_7.exe
+C:\Users\vozny\source\repos\Lab4_7\Lab4_7\bin\Debug\net6.0\Lab4_7.deps.json
+C:\Users\vozny\source\repos\Lab4_7\Lab4_7\bin\Debug\net6.0\Lab4_7.runtimeconfig.json
+C:\Users\vozny\source\repos\Lab4_7\Lab4_7\bin\Debug\net6.0\Lab4_7.dll
+C:\Users\vozny\source\repos\Lab4_7\Lab4_7\bin\Debug\net6.0\Lab4_7.pdb
+C:\Users\vozny\source\repos\Lab4_7\Lab4_7\obj\Debug\net6.0\Lab4_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vozny\source\repos\Lab4_7\Lab4_7\obj\Debug\net6.0\Lab4_7.AssemblyInfoInputs.cache
+C:\Users\vozny\source\repos\Lab4_7\Lab4_7\obj\Debug\net6.0\Lab4_7.AssemblyInfo.cs
+C:\Users\vozny\source\repos\Lab4_7\Lab4_7\obj\Debug\net6.0\Lab4_7.csproj.CoreCompileInputs.cache
+C:\Users\vozny\source\repos\Lab4_7\Lab4_7\obj\Debug\net6.0\Lab4_7.dll
+C:\Users\vozny\source\repos\Lab4_7\Lab4_7\obj\Debug\net6.0\refint\Lab4_7.dll
+C:\Users\vozny\source\repos\Lab4_7\Lab4_7\obj\Debug\net6.0\Lab4_7.pdb
+C:\Users\vozny\source\repos\Lab4_7\Lab4_7\obj\Debug\net6.0\Lab4_7.genruntimeconfig.cache
+C:\Users\vozny\source\repos\Lab4_7\Lab4_7\obj\Debug\net6.0\ref\Lab4_7.dll
